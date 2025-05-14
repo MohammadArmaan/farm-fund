@@ -283,7 +283,7 @@ export default function DashboardPage() {
                         <CardHeader>
                             <CardTitle>Platform Statistics</CardTitle>
                             <CardDescription>
-                                Overall FairFund statistics
+                                Overall FarmFund statistics
                             </CardDescription>
                         </CardHeader>
                         <CardContent>

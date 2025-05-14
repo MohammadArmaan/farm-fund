@@ -101,7 +101,7 @@ export default function Navbar() {
 
                     <Link href="/" className="flex items-center space-x-2">
                         <span className="font-bold text-xl bg-gradient-to-r text-green-500 bg-clip-text">
-                            FairFund
+                            FarmFund
                         </span>
                         <span className="text-xs font-semibold text-white bg-green-600 px-2 py-0.5 rounded-full shadow-sm">
                             Beta

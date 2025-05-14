@@ -20,7 +20,7 @@ export default function Home() {
                                 Transparent Aid Distribution for Farmers
                             </h1>
                             <p className="text-lg md:text-xl mb-8 text-white/90">
-                                FairFund connects donors directly with small
+                                FarmFund connects donors directly with small
                                 farmers, ensuring transparency and
                                 accountability through blockchain technology.
                             </p>
@@ -76,7 +76,7 @@ export default function Home() {
                 <div className="container mx-auto px-4">
                     <div className="text-center mb-16">
                         <h2 className="text-3xl md:text-4xl font-bold text-green-900 mb-4">
-                            How FairFund Works
+                            How FarmFund Works
                         </h2>
                         <p className="text-lg text-gray-600 max-w-2xl mx-auto">
                             Our blockchain-powered platform ensures every
@@ -155,7 +155,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-green-900 mb-4">Featured Farmers</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Meet some of the farmers who have benefited from the FairFund platform.
+              Meet some of the farmers who have benefited from the FarmFund platform.
             </p>
           </div>
 
@@ -174,7 +174,7 @@ export default function Home() {
                   <h3 className="text-xl font-bold mb-2 text-green-900">Farmer Name {i}</h3>
                   <p className="text-sm text-gray-500 mb-3">Location {i} • Organic Farming</p>
                   <p className="text-gray-600 mb-4">
-                    "FairFund has helped me expand my farm and implement sustainable farming practices. The transparent
+                    "FarmFund has helped me expand my farm and implement sustainable farming practices. The transparent
                     process gives me confidence."
                   </p>
                   <Button variant="outline" className="w-full border-green-200 text-green-700 hover:bg-green-50">
@@ -204,7 +204,7 @@ export default function Home() {
                             Ready to Make a Difference?
                         </h2>
                         <p className="text-xl mb-8 text-white/90">
-                            Join FairFund today and be part of a transparent
+                            Join FarmFund today and be part of a transparent
                             ecosystem that empowers small farmers around the
                             world.
                         </p>

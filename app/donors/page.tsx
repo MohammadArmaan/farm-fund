@@ -28,7 +28,7 @@ export default function DonorsPage() {
                 </h1>
                 <p className="text-lg text-gray-600 max-w-2xl mx-auto">
                     Meet the organizations and individuals who are making a
-                    difference by supporting small farmers through the FairFund
+                    difference by supporting small farmers through the FarmFund
                     platform.
                 </p>
             </div>

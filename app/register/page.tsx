@@ -239,7 +239,7 @@ export default function RegisterPage() {
                         Registration Complete
                     </h3>
                     <p className="text-gray-600">
-                        You are registered as a donor in FairFund.
+                        You are registered as a donor in FarmFund.
                     </p>
                 </div>
             );
@@ -309,7 +309,7 @@ export default function RegisterPage() {
                         Registration Complete
                     </h3>
                     <p className="text-gray-600">
-                        You are registered as a farmer in FairFund.
+                        You are registered as a farmer in FarmFund.
                     </p>
                 </div>
             );
@@ -392,7 +392,7 @@ export default function RegisterPage() {
         <div className="container mx-auto px-4 py-12">
             <div className="max-w-md mx-auto">
                 <h1 className="text-3xl font-bold text-center mb-8 text-green-900">
-                    Register with FairFund
+                    Register with FarmFund
                 </h1>
 
                 {!isConnected ? (
@@ -443,7 +443,7 @@ export default function RegisterPage() {
                                     <CardTitle>Register as Donor</CardTitle>
                                     <CardDescription>
                                         Fill in your details to register as a
-                                        donor on FairFund.
+                                        donor on FarmFund.
                                     </CardDescription>
                                 </CardHeader>
                                 <CardContent>
@@ -458,7 +458,7 @@ export default function RegisterPage() {
                                     <CardTitle>Register as Farmer</CardTitle>
                                     <CardDescription>
                                         Fill in your details to register as a
-                                        farmer on FairFund.
+                                        farmer on FarmFund.
                                     </CardDescription>
                                 </CardHeader>
                                 <CardContent>

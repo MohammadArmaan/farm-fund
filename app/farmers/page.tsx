@@ -41,7 +41,7 @@ export default function FarmersPage() {
                 const enhancedFarmers = farmersList.map((farmer, index) => ({
                     ...farmer,
                     id: index + 1,
-                    story: `${farmer.name} is a dedicated farmer specializing in ${farmer.farmType}. With support from FairFund, ${farmer.name} has been able to implement sustainable farming practices and increase crop yield.`,
+                    story: `${farmer.name} is a dedicated farmer specializing in ${farmer.farmType}. With support from FarmFund, ${farmer.name} has been able to implement sustainable farming practices and increase crop yield.`,
                 }));
                 setFarmers(enhancedFarmers);
                 setFilteredFarmers(enhancedFarmers);
@@ -118,7 +118,7 @@ export default function FarmersPage() {
                     Our Farmers
                 </h1>
                 <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-                    Meet the hardworking farmers who are part of the FairFund
+                    Meet the hardworking farmers who are part of the FarmFund
                     ecosystem. Each farmer has been carefully selected based on
                     their commitment to sustainable farming practices.
                 </p>

@@ -10,7 +10,7 @@ export default function Footer() {
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
                     <div className="md:col-span-1">
                         <Link href="/" className="inline-block mb-4">
-                            <span className="font-bold text-2xl">FairFund</span>
+                            <span className="font-bold text-2xl">FarmFund</span>
                         </Link>
                         <p className="text-green-300 mb-4">
                             A transparent aid distribution system for small
@@ -143,7 +143,7 @@ export default function Footer() {
 
                     {/* <div>
             <h3 className="font-medium text-lg mb-4">Subscribe to Our Newsletter</h3>
-            <p className="text-green-300 mb-4">Stay updated with the latest news and updates from FairFund.</p>
+            <p className="text-green-300 mb-4">Stay updated with the latest news and updates from FarmFund.</p>
             <div className="flex space-x-2">
               <Input
                 type="email"
@@ -157,7 +157,7 @@ export default function Footer() {
 
                 <div className="border-t border-green-800 mt-12 pt-8 text-center text-green-300 text-sm">
                     <p>
-                        &copy; {new Date().getFullYear()} FairFund. All rights
+                        &copy; {new Date().getFullYear()} FarmFund. All rights
                         reserved.
                     </p>
                 </div>

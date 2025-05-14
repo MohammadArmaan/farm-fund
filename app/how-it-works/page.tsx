@@ -9,7 +9,7 @@ export default function HowItWorksPage() {
         <div className="container mx-auto px-4 py-12">
             <div className="text-center mb-16">
                 <h1 className="text-4xl font-bold text-green-900 mb-4">
-                    How FairFund Works
+                    How FarmFund Works
                 </h1>
                 <p className="text-lg text-gray-600 max-w-2xl mx-auto">
                     Our blockchain-powered platform ensures every donation
@@ -100,7 +100,7 @@ export default function HowItWorksPage() {
             <div className="mb-20">
                 <div className="text-center mb-12">
                     <h2 className="text-3xl font-bold text-green-900 mb-4">
-                        The FairFund Process
+                        The FarmFund Process
                     </h2>
                     <p className="text-lg text-gray-600 max-w-2xl mx-auto">
                         A detailed look at how our platform connects donors with
@@ -286,7 +286,7 @@ export default function HowItWorksPage() {
             <div className="mb-20">
                 <div className="text-center mb-12">
                     <h2 className="text-3xl font-bold text-green-900 mb-4">
-                        Benefits of FairFund
+                        Benefits of FarmFund
                     </h2>
                     <p className="text-lg text-gray-600 max-w-2xl mx-auto">
                         Our platform offers unique advantages for both donors
@@ -367,7 +367,7 @@ export default function HowItWorksPage() {
                     Ready to Get Started?
                 </h2>
                 <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-8">
-                    Join FairFund today and be part of a transparent ecosystem
+                    Join FarmFund today and be part of a transparent ecosystem
                     that empowers small farmers around the world.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">

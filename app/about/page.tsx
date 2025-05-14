@@ -39,7 +39,7 @@ export default function AboutPage() {
             {/* Hero Section */}
             <div className="text-center mb-16">
                 <h1 className="text-4xl font-bold text-green-900 mb-4">
-                    About FairFund
+                    About FarmFund
                 </h1>
                 <p className="text-lg text-gray-600 max-w-2xl mx-auto">
                     We're on a mission to create a transparent and efficient
@@ -55,7 +55,7 @@ export default function AboutPage() {
                     </h2>
                     <div className="space-y-4 text-gray-600">
                         <p>
-                            At FairFund, we envision a world where small farmers
+                            At FarmFund, we envision a world where small farmers
                             thrive through direct, transparent access to the
                             resources they need. By leveraging blockchain
                             technology, we aim to eliminate inefficiencies and
@@ -68,7 +68,7 @@ export default function AboutPage() {
                 <div className="flex justify-center">
                     <Image
                         src="/vision.jpg"
-                        alt="FairFund Story"
+                        alt="FarmFund Story"
                         width={400}
                         height={400}
                         className="rounded-lg shadow-xl"
@@ -150,7 +150,7 @@ export default function AboutPage() {
                         Our Team
                     </h2>
                     <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-                        Meet the passionate individuals behind FairFund who are
+                        Meet the passionate individuals behind FarmFund who are
                         working to create a more equitable agricultural
                         ecosystem.
                     </p>
@@ -219,7 +219,7 @@ export default function AboutPage() {
                 </h2>
                 <p className="text-xl mb-8 text-white/90 max-w-2xl mx-auto">
                     Whether you're a donor looking to make an impact or a farmer
-                    seeking support, FairFund provides a transparent platform to
+                    seeking support, FarmFund provides a transparent platform to
                     connect and create positive change.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
